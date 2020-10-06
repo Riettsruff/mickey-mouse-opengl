@@ -1,1 +1,2 @@
-# mickey-mouse-opengl
+# Mickey Mouse
+Make it use OpenGL
